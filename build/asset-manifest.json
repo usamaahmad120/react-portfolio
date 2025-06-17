@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.224a066d.css",
+    "main.js": "/static/js/main.8a389977.js",
+    "static/media/ai_repair_png": "/static/media/ai_repair_20250504014022465.673cd88bbd4c0a4d8e63.png",
+    "static/media/bubble game.jpeg": "/static/media/bubble game.e22e58875467985dc976.jpeg",
+    "index.html": "/index.html",
+    "main.224a066d.css.map": "/static/css/main.224a066d.css.map",
+    "main.8a389977.js.map": "/static/js/main.8a389977.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.224a066d.css",
+    "static/js/main.8a389977.js"
+  ]
+}

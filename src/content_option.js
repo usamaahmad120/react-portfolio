@@ -1,8 +1,10 @@
 // Import your local images
 import myLocalImage from './assets/images/ai_repair_20250504014022465.png';
-import nicePage from './assets/images/bootstrap.jpeg'
-import aiRepairImg from './assets/images/modern website.png'; 
-import bubbleGame from './assets/images/bubble game.jpeg'// Ensure this image exists inside src/assets/images
+import nicePage1 from './assets/images/668e751260290468e2c80cbf_Creating a Developer Portfolio_ Best Sites, and Ideas for Front-End Developers.png'
+import aiRepairImg from './assets/images/responsive-web-design-1-61f01c4b64c5f-sej.webp'; 
+import bubbleGame from './assets/images/bubble-number_1580914866.jpg'// Ensure this image exists 
+// inside src/assets/images
+
 
 const logotext = "Usama";
 
@@ -31,14 +33,14 @@ const dataabout = {
 
 const worktimeline = [
     {
-        jobtitle: "Front-End Developer",
+        jobtitle: "Front-End Developer Intern",
         where: "MoroSoft Labs",
         date: "March 2025 - Present",
     },
     {
-        jobtitle: "WordPress Developer",
+        jobtitle: "Front-End Developer",
         where: "Remote | QA Solutions BPO",
-        date: "Jan 2022 - Feb 2023",
+        date: "Jan 2023 - Oct 2023",
     },
 ];
 
@@ -67,7 +69,7 @@ const services = [
 
 const dataportfolio = [
     {
-        img: nicePage,
+        img: nicePage1,
         description: "A responsive website using HTML5, CSS3, Bootstrap5 and JavaScript.",
         link: "https://github.com/usamaahmad120/nice-page",
     },
@@ -81,6 +83,8 @@ const dataportfolio = [
         description: "A simple bubble-click game built with HTML, CSS, and JavaScript.",
         link: "https://github.com/usamaahmad120/Bubble-game",
     },
+   
+   
 ];
 
 const contactConfig = {
