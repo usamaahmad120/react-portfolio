@@ -2,7 +2,6 @@
 import myLocalImage from './assets/images/ai_repair_20250504014022465.png';
 import nicePage1 from './assets/images/nicepage.jpg'
 import aiRepairImg from './assets/images/main-project.jpg'; 
-import bubbleGame from './assets/images/bubble-number_1580914866.jpg'
 import Foodexpress from './assets/images/food-img.jpg'
 
 const logotext = "Usama";
