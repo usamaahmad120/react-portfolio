@@ -1,10 +1,9 @@
 // Import your local images
 import myLocalImage from './assets/images/ai_repair_20250504014022465.png';
-import nicePage1 from './assets/images/668e751260290468e2c80cbf_Creating a Developer Portfolio_ Best Sites, and Ideas for Front-End Developers.png'
-import aiRepairImg from './assets/images/responsive-web-design-1-61f01c4b64c5f-sej.webp'; 
-import bubbleGame from './assets/images/bubble-number_1580914866.jpg'// Ensure this image exists 
-// inside src/assets/images
-
+import nicePage1 from './assets/images/nicepage.jpg'
+import aiRepairImg from './assets/images/main-project.jpg'; 
+import bubbleGame from './assets/images/bubble-number_1580914866.jpg'
+import Foodexpress from './assets/images/food-img.jpg'
 
 const logotext = "Usama";
 
@@ -33,7 +32,7 @@ const dataabout = {
 
 const worktimeline = [
     {
-        jobtitle: "Front-End Developer Intern",
+        jobtitle: "Front-End Developer",
         where: "MoroSoft Labs",
         date: "March 2025 - Present",
     },
@@ -69,20 +68,31 @@ const services = [
 
 const dataportfolio = [
     {
+        img: Foodexpress,
+        description: "A responsive React + Redux food ordering app with cart management, real-time quantity updates, and smooth navigation for a seamless shopping experience",
+        link: "https://1st-react-project-food.netlify.app/",
+    },
+
+     {
         img: nicePage1,
         description: "A responsive website using HTML5, CSS3, Bootstrap5 and JavaScript.",
-        link: "https://github.com/usamaahmad120/nice-page",
+        link: "https://responsive-bootstrap-project.netlify.app/",
     },
     {
         img: aiRepairImg,
         description: "A responsive website with smooth animations using HTML, CSS, and JavaScript.",
         link: "https://github.com/usamaahmad120/modern-website",
     },
-    {
-        img: bubbleGame,
-        description: "A simple bubble-click game built with HTML, CSS, and JavaScript.",
-        link: "https://github.com/usamaahmad120/Bubble-game",
-    },
+   
+    
+    // {
+    //     img: bubbleGame,
+    //     description: "A simple bubble-click game built with HTML, CSS, and JavaScript.",
+    //     link: "https://github.com/usamaahmad120/Bubble-game",
+    // },
+   
+    
+    
    
    
 ];
