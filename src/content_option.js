@@ -1,8 +1,9 @@
 // Import your local images
 import myLocalImage from './assets/images/ai_repair_20250504014022465.png';
 import nicePage1 from './assets/images/nicepage.jpg'
-import aiRepairImg from './assets/images/main-project.jpg'; 
+// import aiRepairImg from './assets/images/main-project.jpg'; 
 import Foodexpress from './assets/images/food-img.jpg'
+import Mobailshop from './assets/images/mobail-shop.jpg';
 
 const logotext = "Usama";
 
@@ -33,13 +34,13 @@ const worktimeline = [
     {
         jobtitle: "Front-End Developer",
         where: "MoroSoft Labs",
-        date: "March 2025 - Present",
+        date: "Feb 2025 - Present",
     },
-    {
-        jobtitle: "Front-End Developer",
-        where: "Remote | QA Solutions BPO",
-        date: "Jan 2023 - Oct 2023",
-    },
+    // {
+    //     jobtitle: "Front-End Developer",
+    //     where: "Remote | QA Solutions BPO",
+    //     date: "Jan 2023 - Oct 2023",
+    // },
 ];
 
 const skills = [
@@ -71,17 +72,22 @@ const dataportfolio = [
         description: "A responsive React + Redux food ordering app with cart management, real-time quantity updates, and smooth navigation for a seamless shopping experience",
         link: "https://1st-react-project-food.netlify.app/",
     },
+    {
+        img: Mobailshop,
+        description: "A modern, responsive eCommerce website built with React, featuring animated product categories and a clean user interface.",
+        link: "https://2nd-ecommerce-project-react.netlify.app/",
+    },
 
      {
         img: nicePage1,
         description: "A responsive website using HTML5, CSS3, Bootstrap5 and JavaScript.",
         link: "https://responsive-bootstrap-project.netlify.app/",
     },
-    {
-        img: aiRepairImg,
-        description: "A responsive website with smooth animations using HTML, CSS, and JavaScript.",
-        link: "https://github.com/usamaahmad120/modern-website",
-    },
+    // {
+    //     img: aiRepairImg,
+    //     description: "A responsive website with smooth animations using HTML, CSS, and JavaScript.",
+    //     link: "https://github.com/usamaahmad120/modern-website",
+    // },
    
     
     // {
